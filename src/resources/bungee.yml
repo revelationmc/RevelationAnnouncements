@@ -1,0 +1,5 @@
+name: RevelationAnnouncements
+version: 1.0
+
+main: net.savagedev.ra.bungee.RABungee
+author: SavageAvocado

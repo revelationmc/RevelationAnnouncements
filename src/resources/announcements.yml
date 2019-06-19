@@ -1,0 +1,28 @@
+announcement-delay: 5 # in minutes.
+random-order: true
+
+announcements:
+  trade:
+    sound: ENTITY_ARROW_HIT_PLAYER
+    message:
+      - '&7Trade with players by holding shift and right clicking when near them.'
+  apes:
+    sound: ENTITY_ARROW_HIT_PLAYER
+    message:
+      - '&7Did you know Apes technically are not monkeys?'
+  discord:
+    sound: ENTITY_ARROW_HIT_PLAYER
+    message:
+      - '&7Join our discord! https://discord.gg/VXQ9p8F'
+  vote:
+    sound: ENTITY_ARROW_HIT_PLAYER
+    message:
+      - '&7Support the server for free by doing /vote!'
+  donate:
+    sound: ENTITY_ARROW_HIT_PLAYER
+    message:
+      - '&7Check out the donation store with /buy!'
+  suggestions:
+    sound: ENTITY_ARROW_HIT_PLAYER
+    message:
+      - '&7Think of something we should add? Tell a staff member.'

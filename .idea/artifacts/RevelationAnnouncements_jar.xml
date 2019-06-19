@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RevelationAnnouncements:jar">
+    <output-path>E:/Servers/Revelation 1.13.2/Proxy/plugins</output-path>
+    <root id="archive" name="RevelationAnnouncements.jar">
+      <element id="module-output" name="RevelationAnnouncements" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/announcements.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/bungee.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

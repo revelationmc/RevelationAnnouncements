@@ -1,0 +1,8 @@
+name: RevelationAnnouncements
+description: None.
+
+author: SavageAvocado.
+website: savagedev.net
+
+main: net.savagedev.ra.spigot.RASpigot
+version: 1.0
